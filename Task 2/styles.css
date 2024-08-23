@@ -1,0 +1,16 @@
+.navbar a {
+    color: white;
+}   
+
+.navbar {
+    background-color: rgb(46, 46, 46);
+}
+
+.navbar a:hover {
+    text-decoration: red underline ;
+    color: white;
+}
+
+body {
+    font-family: "Lucida Console", "Courier New", monospace;    
+}
